@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Rediseño de Tienda Online",
+        "cliente": "Inditex",
+        "descripcion": "Actualizar interfaz y proceso de pago.",
+        "fecha_entrega": "2024-05-20",
+        "presupuesto": 2500,
+        "prioridad": "Alta"
+    },
+    {
+        "nombre": "Migración de Base de Datos",
+        "cliente": "Banco Santander",
+        "descripcion": "Pasar datos al nuevo servidor seguro.",
+        "fecha_entrega": "2024-06-15",
+        "presupuesto": 5000,
+        "prioridad": "Media"
+    },
+    {
+        "nombre": "App Gestión de Inventario",
+        "cliente": "Logística Express",
+        "descripcion": "Control de stock en bodega móvil.",
+        "fecha_entrega": "2024-08-01",
+        "presupuesto": 3200,
+        "prioridad": "Baja"
+    }
+]
